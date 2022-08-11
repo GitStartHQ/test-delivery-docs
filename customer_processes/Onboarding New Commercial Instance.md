@@ -1,13 +1,5 @@
 # Onboarding New Commercial Instance
 
-Documentation: Not started
-Doucmentation: Not started
-Frequency: On-demand
-Last Updated At: August 11, 2022 12:18 AM
-Owner: HQ
-State: Operational
-Type: Commercial
-Updated By: Edward So
 
 ### Why does the process matter?
 
