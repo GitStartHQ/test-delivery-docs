@@ -1,0 +1,6 @@
+# [2022-08-11] Client Health Check
+
+
+- [x] Check DB and make sure there are tickets for all clients
+- [x] Update DB if no tickets created by clients
+- [x] Announce on Slack if a client is super red
